@@ -50,8 +50,8 @@
   </div>
 </template>
 <script>
-import Data from "@/configs/landing.json";
-import Menu from "@/configs/menu.json";
+import Data from "@/config/landing.json";
+import Menu from "@/config/menu.json";
 export default {
   name: "Page",
   data() {

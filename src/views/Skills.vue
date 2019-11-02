@@ -9,7 +9,7 @@
   </x-page>
 </template>
 <script>
-import Skills from "@/configs/skills.json";
+import Skills from "@/config/skills.json";
 import CardSkill from "@/components/CardSkill.vue";
 export default {
   name: "Skills",

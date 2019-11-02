@@ -10,7 +10,7 @@
 </template>
 <script>
 import CardProject from "@/components/CardProject";
-import Projects from "@/configs/projects.json";
+import Projects from "@/config/projects.json";
 export default {
   name: "Projects",
   components: { CardProject },

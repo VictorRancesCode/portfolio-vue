@@ -61,7 +61,7 @@
 </template>
 <script>
 import Avatar from "@/components/Avatar.vue";
-import Data from "@/configs/landing.json";
+import Data from "@/config/landing.json";
 export default {
   name: "home",
   components: { Avatar },
