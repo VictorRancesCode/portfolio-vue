@@ -1,0 +1,10 @@
+{
+    "home": true,
+    "experience": false,
+    "skills": true,
+    "services": false,
+    "projects": true,
+    "store": false,
+    "blog": false,
+    "contact": false
+}
